@@ -50,7 +50,7 @@ const HomeScreen = ({ navigation }) => {
 
               <View style={{ marginRight: 70 }}>
                 <Text style={{ fontSize: 12, fontWeight: 'ultralight', margin: 1, marginLeft: 5, marginTop: 10, color: colors.textColor }}>Welcome back,</Text>
-                <Text style={{ fontWeight: 'bold', fontSize: 22, color: colors.textColor }}>Eric Atsu</Text>
+                <Text style={{ fontWeight: 'bold', fontSize: 22, color: colors.textColor }}>Joel Djan</Text>
               </View>
 
               <View style={styles.imageContainer}>
